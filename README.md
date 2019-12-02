@@ -1,6 +1,6 @@
 # plunder_computer_music
 
-For sample output visit https://nathanblair.me/music.html
+For sample output visit www.nathanblair.me/music.html
 
 ## Info
 
