@@ -13,6 +13,7 @@ This program uses code from the Free Music Archive dataset https://github.com/md
 
 	git clone https://github.com/mdeff/fma.git
 	mv autoSampleClip.py fma
+	mv params.py fma
 	cd fma
 	## Edit parameters in params.py
 	python autoSampleClip.py
