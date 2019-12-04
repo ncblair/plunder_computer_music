@@ -12,6 +12,7 @@ This program uses code from the Free Music Archive dataset https://github.com/md
 
 
 	git clone https://github.com/mdeff/fma.git
+	# Follow instructions from the fma github to set up the database https://github.com/mdeff/fma
 	mv autoSampleClip.py fma
 	mv params.py fma
 	cd fma
